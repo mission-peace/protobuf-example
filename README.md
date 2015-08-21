@@ -1,4 +1,6 @@
-This repository has examples for protobuf usage.
+This repository has examples for protobuf usage. 
+
+Read https://developers.google.com/protocol-buffers/docs/javatutorial to know more about protobuf.
 
 <h3> How to use this repository </h3>
 * Install JDK8 https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
@@ -14,3 +16,4 @@ create protoc executable.
 * mvn idea:idea
 * mvn compile
 * Run any example from idea.
+
